@@ -6,6 +6,9 @@ from app import render_quote
 from dotenv import load_dotenv
 import os
 
+load_dotenv()
+
+
 TOKEN: Final = os.getenv('TOKEN')
 BOT_USERNAME: Final = os.getenv('BOT_USERNAME')
 
