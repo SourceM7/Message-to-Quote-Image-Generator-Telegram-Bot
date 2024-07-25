@@ -2,6 +2,8 @@
 
 A Telegram bot that generates images of quotes from messages within a group chat. The bot listens for mentions and then creates an image featuring the quoted message and the user who was mentioned.
 
+(https://github.com/SourceM7/Message-to-Quote-Image-Generator-Telegram-Bot/blob/master/Screenshot_20240725_232842_Telegram.jpg)
+
 ## Features
 
 - Automatically generate quote images from Telegram group messages.
